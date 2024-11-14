@@ -23,8 +23,8 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```cmd
-git clone https://github.com/Yuvraj0014/Customer-Churn-Prediction-using-ANN.git
-Customer-Churn-Prediction-using-ANN
+git clone https://github.com/Yuvraj0014/Next-Word-Prediction-with-LSTM-RNN-and-GRU-RNN.git
+Next-Word-Prediction-with-LSTM-RNN-and-GRU-RNN
 ```
 
 2. Setup a virtual environment (optional but recommended)
