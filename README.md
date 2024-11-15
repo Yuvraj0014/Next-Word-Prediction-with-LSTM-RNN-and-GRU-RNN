@@ -1,4 +1,4 @@
-# Next Word Prediction with LSTM RNN and GRU RNN
+# Next Word Prediction with LSTM RNN and GRU RNN hiy hjygf hjyhgh hjhjh
 
 ## 📋 Project Overview
 This project focuses on building a next word prediction model using two popular recurrent neural network (RNN) architectures - Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU). The model has been trained on the Shakespeare-Hamlet text from the NLTK Gutenberg corpus, so the predicted outputs will be in the context of Shakespearean language.
