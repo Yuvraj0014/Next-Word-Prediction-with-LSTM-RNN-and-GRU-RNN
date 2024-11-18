@@ -48,6 +48,10 @@ pip install -r requirements.txt
 ```cmd
 streamlit run app.py
 ```
+## How It Works
+# Model Architecture
+* The application uses an LSTM (Long Short-Term Memory) neural network trained on a text corpus
+* The model learns to predict the next word in a sequence based on previous words
 
 ## 🎯 Output Screen
 ![image](https://github.com/user-attachments/assets/45d180d8-9dfc-4fa3-a68c-5daf18677eeb)
