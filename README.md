@@ -54,12 +54,12 @@ streamlit run app.py
 * The model learns to predict the next word in a sequence based on previous words
 
 ## Prediction Process
-1. Input Processing
+**1. Input Processing**
 * User enters a text sequence
 * The input is converted to numerical tokens using a pre-trained tokenizer
 * Sequence is padded to match the model's expected input length
 
-2. Prediction Steps
+**2. Prediction Steps**
 * Tokenize the input text
 * Prepare the sequence for model input
 * Use the LSTM model to predict the most likely next word
