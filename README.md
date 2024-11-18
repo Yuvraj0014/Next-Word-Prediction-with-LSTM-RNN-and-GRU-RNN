@@ -6,6 +6,11 @@ This project focuses on building a next word prediction model using two popular 
 ## Note
 The model uses an RNN architecture to learn the patterns and dependencies in the Shakespeare-Hamlet text corpus. The LSTM and GRU units are designed to capture long-term dependencies in the data, which is crucial for accurate next word prediction.
 
+## Features
+* Uses a pre-trained LSTM model for next word prediction
+* Interactive Streamlit web interface
+* Real-time prediction based on user input
+
 ## 📚 Requirements
 1. pandas
 2. numpy
