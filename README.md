@@ -29,7 +29,7 @@ To run the project locally, follow these steps:
 
 ```cmd
 git clone https://github.com/Yuvraj0014/Next-Word-Prediction-with-LSTM-RNN-and-GRU-RNN.git
-Next-Word-Prediction-with-LSTM-RNN-and-GRU-RNN
+cd Next-Word-Prediction-with-LSTM-RNN-and-GRU-RNN
 ```
 
 2. Setup a virtual environment (optional but recommended)
